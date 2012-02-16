@@ -1,6 +1,6 @@
 project(wolframalpha-plasmoid)
 
-find_package(KDE4 REQUIRED)
+find_package(KDE4 "4.8" REQUIRED)
 
 include(KDE4Defaults)
  
