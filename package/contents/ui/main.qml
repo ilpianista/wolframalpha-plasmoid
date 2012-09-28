@@ -65,7 +65,7 @@ Item {
 
                 onClicked: {
                     console.log("opening wolfram alpha website")
-                    Qt.openUrlExternally('http://www.wolframalpha.com/input/?i=' + text.text)
+                    Qt.openUrlExternally('http://www.wolframalpha.com/input/?i=' + (text.text))
                 }
             }
         }
