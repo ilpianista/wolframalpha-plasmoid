@@ -1,6 +1,6 @@
 [Desktop Entry]
-Name=Wolfram Alpha Plasmoid (QML)
-Comment=A wolfram alpha plasmoid written in QML
+Name=Wolfram Alpha Plasmoid 
+Comment=A plasmoid to redirect what you type to the wolfram alpha website
 Encoding=UTF-8
 Icon=applications-education-mathematics
 ServiceTypes=Plasma/Applet
