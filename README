@@ -6,14 +6,8 @@ At the moment, it starts your default browser (or it opens a new tab into) to sh
 
 How to install
 --------------
-Open a terminal and go to the 
-
-$ mkdir build
-$ cd build
-$ cmake ../ -DCMAKE_INSTALL_PREFIX=/usr
-
-# make install
+See https://github.com/ascarpino/wolframalpha-plasmoid/wiki/Install
 
 Licensing
 ---------
-GPL2
+LGPL
