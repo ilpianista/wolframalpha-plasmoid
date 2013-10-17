@@ -1,6 +1,6 @@
 [Desktop Entry]
-Name=Wolfram Alpha Plasmoid 
-Comment=A plasmoid to redirect what you type to the wolfram alpha website
+Name=Wolfram Alpha
+Comment=WolframAlpha front-end
 Encoding=UTF-8
 Icon=applications-education-mathematics
 ServiceTypes=Plasma/Applet
@@ -8,10 +8,10 @@ Type=Service
 X-KDE-PluginInfo-Author=Andrea Scarpino
 X-KDE-PluginInfo-Category=Mathematics
 X-KDE-PluginInfo-Depends=
-X-KDE-PluginInfo-Email=andrea@archlinux.org
+X-KDE-PluginInfo-Email=scarpino@kde.org
 X-KDE-PluginInfo-EnabledByDefault=true
-X-KDE-PluginInfo-License=GPL
-X-KDE-PluginInfo-Name=org.kde.plasma.applet.wolframalpha
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-Name=wolframalpha
 X-KDE-PluginInfo-Version=1.0
 X-KDE-PluginInfo-Website=http://plasma.kde.org/
 X-Plasma-API=declarativeappletscript
