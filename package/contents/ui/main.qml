@@ -21,6 +21,8 @@ import QtQuick 1.1
 import org.kde.plasma.components 0.1 as PlasmaComponents
 
 Column {
+    property int minimumWidth: implicitWidth
+    property int minimumHeight: implicitHeight
     spacing: 10
 
     Row {
